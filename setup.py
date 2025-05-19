@@ -47,7 +47,7 @@ extras_require = {
     ],
     "android_assistant": [
         "pyshine==0.0.9",
-        "opencv-python==4.6.0.66",
+        "opencv-python==4.8.1.78",
         "protobuf<3.20,>=3.9.2",
         "modelscope",
         "tensorflow==2.9.1; os_name == 'linux'",
